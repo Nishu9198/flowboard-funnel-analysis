@@ -7,6 +7,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange?style=flat-square&logo=plotly)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=flat-square&logo=streamlit)
 
+**[▶ Live Dashboard Demo](https://flowboard-funnel-analysis-4ckctny8gyrs2mpp4ef95m.streamlit.app/)**
+
 ---
 
 ##  Executive Summary
