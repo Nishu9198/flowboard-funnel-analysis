@@ -183,7 +183,7 @@ flowboard-funnel-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/flowboard-funnel-analysis.git
+git clone https://github.com/Nishu9198/flowboard-funnel-analysis.git
 cd flowboard-funnel-analysis
 ```
 
